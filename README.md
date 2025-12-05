@@ -70,4 +70,4 @@ library.cpp
 ```
 
 ## Примерен изход
-![alt text](Screenshot 2025-12-06 000753.png)
+![alt text](<Screenshot 2025-12-06 000753.png>)
